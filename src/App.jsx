@@ -3,7 +3,9 @@ import Hero from './Components/Hero'
 import Benefits from './Components/Benefits'
 import Articles from './Components/Articles'
 import Footer from './Components/Footer'
-import './Global.css'
+import './Styles/Global.css'
+
+// TODO:: INTERSECTION OBSERVER, ADD ANIMATION ON SCROLL
 
 function App() {
   return (
